@@ -3,7 +3,7 @@ package com.mycompany.pruebawhile;
 
 import java.util.Scanner;
 
-
+//CREADO POR OUSSAMA Y MANUEL//
 public class Pruebawhile {
 
     public static void main(String[] args) {
